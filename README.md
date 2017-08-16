@@ -11,7 +11,7 @@ Dynamic Way of Updating A Portion of the HTML without Page Reload
 * data-swaptarget and data-swap: A keyword used on two elements to represent a link. This tells the script which elements we want to swa.
 * data-swapurl: This would be the form target, the url containing the HTML we want to Switch
 
-
+## Example
 ```
 <form>
 	<span data-swap="contact-form">
